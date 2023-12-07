@@ -16,7 +16,7 @@ The Snake-C project brings the nostalgic Snake game to life in the C++ programmi
 
 ## Technologies Implemented
 
-[![C++](https://img.shields.io/badge/C++-XXX%25-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/Sphinx0102/Snake-C)
+[![C++](https://img.shields.io/badge/C++-100%25-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/Sphinx0102/Snake-C)
 
 
 ## Instructions for Playing
